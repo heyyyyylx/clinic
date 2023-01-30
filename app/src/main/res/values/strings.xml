@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">校园医务室</string>
+    <string name="duration_time">200</string>
+    <string name="edit">编辑</string>
+    <string name="top">健康训练</string>
+    <string name="noTop">药房</string>
+    <string name="delete">删除</string>
+    <string name="all">购物车</string>
+    <string name="create">聊天窗</string>
+    <string name="reset">清空</string>
+    <string name="save">保存</string>
+    <string name="register">注册</string>
+    <string name="login">登录</string>
+
+    <string name="account">账户</string>
+    <string name="date">日子</string>
+    <string name="location">位置</string>
+    <string name="link">链接</string>
+    <string name="note">便签</string>
+    <string name="question">今日之问</string>
+    <string name="bill">消费</string>
+    <string name="mood">心情</string>
+
+    <string name="slogan">你&#160;&#160;&#160;&#160;的&#160;&#160;&#160;&#160;
+        校&#160;&#160;&#160;&#160;园&#160;&#160;&#160;&#160;健&#160;&#160;&#160;&#160;
+        康&#160;&#160;&#160;&#160;顾&#160;&#160;&#160;&#160;问</string>
+    <string name="confirm">确定</string>
+    <string name="greeting">你的校园健康顾问</string>
+</resources>
